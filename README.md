@@ -1,3 +1,8 @@
+                     Htcdoc Directory
+
+This project is an online bookstore created as a personal class project. The objective was to develop a website where users can browse and purchase different books online. This website allows users to view available books, check book details, see remaining stock on the design end, and get notifications if books are sold out when attempting to purchase them. The website is built using HTML, CSS, JavaScript, and PHP, with XAMPP used for database management.
+
+
 The `htdocs` directory contains all the HTML files necessary for the web application. Below is a brief overview of its contents and setup instructions:
 
 Contents
@@ -27,6 +32,5 @@ To properly view and test the web application locally, follow these steps:
 Database Configuration
 For the application to function correctly, it may require database support. Ensure that:
 
-Install Apache: Download and install Apache as part of the XAMPP package.
 Connect MySQL: Make sure your MySQL database is properly connected with your project. You can configure the database settings in your application to match the database setup in XAMPP.
 Import Database: Import any necessary database files or scripts (e.g., SQL dump files) into your local MySQL database using phpMyAdmin or the command-line tools provided by XAMPP.
